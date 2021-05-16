@@ -19,7 +19,7 @@ This project was developed with the following technologies:
 
 -  [HTML5](https://www.w3schools.com/html/)
 -  [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
--  [Jquery] (https://owlcarousel2.github.io/OwlCarousel2/)
+-  [JQUERY](https://owlcarousel2.github.io/OwlCarousel2/)
 
 
 ## How to run:
